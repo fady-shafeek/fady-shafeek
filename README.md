@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fady</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fady shafeek&theme=dark)](https://git.io/streak-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-shafeek&label=Profile%20views&color=0e75b6&style=flat" alt="fady-shafeek" /> </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fady-shafeek&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-shafeek&label=Profile%20views&color=0e75b6&style=flat" alt="fady-shafeek" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
